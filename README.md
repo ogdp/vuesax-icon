@@ -1,18 +1,19 @@
-vuesax-icon
-Example
-<i class="isax-printer1"></i>
+# vuesax-icon
 
-Intro using
-Steps 1: Download font from github
+## Example  
+> &lt;i class="isax-printer1"&gt;&lt;/i&gt;
 
-https://github.com/nguyenvanuoc/vuesax-icon.git
+## Intro using
 
-Steps 2:
+**Steps 1:**
+Download font from github 
+> https://github.com/nguyenvanuoc/vuesax-icon.git
 
-Copy folder fonts, css to folder assets your project
-Import style in html
-<link rel="stylesheet" type="text/css" href="../assets/isax/css/style.css"/>
+**Steps 2:**
+* Copy folder **fonts, css** to folder **assets** your project 
+* Import style in html 
+> &lt;link rel="stylesheet" type="text/css" href="../assets/isax/css/style.css"/&gt;
 
-Steps 3: Using code
-
-<i class="isax-printer1"></i>
+**Steps 3:**
+Using code 
+> &lt;i class="isax-printer1"&gt;&lt;/i&gt;
