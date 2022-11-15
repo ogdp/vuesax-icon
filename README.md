@@ -9,7 +9,7 @@
 **Steps 1:**
 Download font from github
 
-> https://github.com/ogdp/vuesax-icon
+> https://ogdp.github.io/vuesax-icon
 
 **Steps 2:**
 
